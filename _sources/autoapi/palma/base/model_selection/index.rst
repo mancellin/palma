@@ -28,8 +28,8 @@ Classes
 
    :Parameters:
 
-       **- engine (str): Accepted values are "AutoSklearnOptimizer" or "FlamlOptimizer"**
-           ..
+       **- engine (str): Currently accepted values are "FlamlOptimizer" or**
+           "AutoSklearnOptimizer" (the latter is deprecatted).
 
        **- engine_parameters (dict): parameters passed to the engine.**
            ..
